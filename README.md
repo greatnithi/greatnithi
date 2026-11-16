@@ -79,6 +79,7 @@ Website: https://motobeing.in
 ### 2. EMI24 — Financial Application
 A financial application focused on EMI-related calculations and user workflows.
 
+Website: https://emi24.com
 *Project development work. Source code is not publicly available.*
 
 ### 3. Ludo Fox — Mobile Game
@@ -88,6 +89,7 @@ A mobile game published on Google Play.
 - Mobile application development.
 - Product development and release experience.
 
+PlayStore Link: https://play.google.com/store/apps/details?id=com.hasphgames.ludo
 *Source code is not publicly available.*
 
 ---
